@@ -1,5 +1,5 @@
 ﻿# AIDetect-competition-project
-kaggle平台比赛 Detect AI vs. Human-Generated Images 参赛项目
+kaggle平台比赛 Detect AI vs. Human-Generated Images 参赛项目。比赛链接：https://www.kaggle.com/competitions/detect-ai-vs-human-generated-images
 
 比赛要求对AI生成图像进行识别检测。给定带标签训练集和不带标签测试集。
 
